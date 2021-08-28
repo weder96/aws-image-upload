@@ -22,6 +22,11 @@ Va no Enum BucketName(package com.wsousa.awsimageupload.bucket) e set o PROFILE_
 # 03 - Passo
 Subir o BackEnd(caso quiser subir por uma IDE(Eclipse, Intellij))
 <br/>
+Caso quiser rodar via linha de comando:
+verifique se o maven está instalado (mvn --version)
+verifique se o a variavél de Ambiente $JAVA_HOME está setado com o java11. (echo $JAVA_HOME)
+
+-> mvn spring-boot:run
 
 # 04 - Passo 
 Subir o FrontEnd acessar a pasta frontEnd(Project React)<br/>
@@ -32,12 +37,12 @@ Aconselhoa instalação no NVM(Node Version Manager)<br/>
 https://www.treinaweb.com.br/blog/instalando-e-gerenciando-varias-versoes-do-node-js-com-nvm
 
 dentro da Pasta FrontEnd:
-npm install 
+-> npm install 
 <br/>
 Para baixar dependencias no node_modules
 <br/>
 Para start a Aplicação
 <br/>
-npm start
+-> npm start
 
 
