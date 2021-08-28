@@ -35,8 +35,8 @@ Se não tiver instalado o node(Instalar node)
 
 Aconselhoa instalação no NVM(Node Version Manager)<br/>
 https://www.treinaweb.com.br/blog/instalando-e-gerenciando-varias-versoes-do-node-js-com-nvm
-
-dentro da Pasta FrontEnd:
+<br/>
+dentro da Pasta FrontEnd: <br/>
 -> npm install 
 <br/>
 Para baixar dependencias no node_modules
