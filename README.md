@@ -23,8 +23,8 @@ Va no Enum BucketName(package com.wsousa.awsimageupload.bucket) e set o PROFILE_
 Subir o BackEnd(caso quiser subir por uma IDE(Eclipse, Intellij))
 <br/>
 Caso quiser rodar via linha de comando:
-verifique se o maven está instalado (mvn --version)
-verifique se o a variavél de Ambiente $JAVA_HOME está setado com o java11. (echo $JAVA_HOME)
+verifique se o maven está instalado (mvn --version) <br/>
+verifique se o a variavél de Ambiente $JAVA_HOME está setado com o java11. (echo $JAVA_HOME) <br/>
 
 -> mvn spring-boot:run
 
